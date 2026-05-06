@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 - 🎓 I'm **Nguyễn Nguyên** – a second-year student majoring in **Information Technology** at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**. 
-- 🤖 Key Frameworks/Technologies: ASP.NET Core, Entity Framework Core, ADO.NET,SQL Server.
+- 🤖 Key Frameworks/Technologies: C#, ASP.NET Core, Entity Framework Core, ADO.NET,SQL Server.
 - 📫 How to reach me **nguyennguyen021006.dev@gmail.com**
 
 ---
