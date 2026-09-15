@@ -18,7 +18,7 @@
 * 📊 Current GPA: **3.39 / 4.00**
 * 💻 Aspiring **Software Engineer** with a strong focus on backend development and the .NET ecosystem
 * 🧩 Interested in maintainable software, clean code, architecture, testing, and API design
-* 🚀 Currently developing **TutorHub**, a tutoring center management system
+
 
 ---
 
